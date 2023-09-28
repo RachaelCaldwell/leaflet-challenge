@@ -7,7 +7,7 @@ The Module 15 challenge uses Leaflet to create an interactive dashboard to visua
 * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. A JSON representation of ["All Earthquakes from the Past 7 Days"](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) was used to pull in the data for this visualization.
 
 ## Deployment
-
+Link: https://rachaelcaldwell.github.io/leaflet-challenge/ 
 
 **The Visualization**<br>
 ![image](https://github.com/RachaelCaldwell/leaflet-challenge/assets/134207637/a326d278-e92f-41e1-bb0e-92e5c4b94122)
