@@ -10,4 +10,5 @@ The Module 15 challenge uses Leaflet to create an interactive dashboard to visua
 Link: https://rachaelcaldwell.github.io/leaflet-challenge/ 
 
 **The Visualization**<br>
+
 ![image](https://github.com/RachaelCaldwell/leaflet-challenge/assets/134207637/a326d278-e92f-41e1-bb0e-92e5c4b94122)
